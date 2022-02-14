@@ -1,0 +1,58 @@
+{
+  "identifier" : "AA9AD94B",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "8.77",
+      "familyShareable" : false,
+      "internalID" : "83120927",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "1gb",
+      "referenceName" : "Record your trip 1GB",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "5.23",
+      "familyShareable" : false,
+      "internalID" : "37A10FD9",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "ko"
+        }
+      ],
+      "productID" : "600mb",
+      "referenceName" : "Record your trip 600MB",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

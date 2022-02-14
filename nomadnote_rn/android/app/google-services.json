@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "1079035027448",
+    "firebase_url": "https://nomadenote-16d52.firebaseio.com",
+    "project_id": "nomadenote-16d52",
+    "storage_bucket": "nomadenote-16d52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079035027448:android:8d618fcaeae75034",
+        "android_client_info": {
+          "package_name": "com.devstories.nomadnote.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079035027448-0ipihueatbvdoicq60f2navpm9120cs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devstories.nomadnote.android",
+            "certificate_hash": "99367bd82eb73a0096afb3f329130aac4f327fd9"
+          }
+        },
+        {
+          "client_id": "1079035027448-i0o50nph0voatvo4m3gjj4oalemq2nnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devstories.nomadnote.android",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1079035027448-ti9tnfltdno4kik0pfi7su2qhujb6p43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devstories.nomadnote.android",
+            "certificate_hash": "f52817f34b9479f9c1739bd848725f294b0da9a8"
+          }
+        },
+        {
+          "client_id": "1079035027448-plur6s9lud2e99tggbkn5uf4jmlabb9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVksFdc6MXuQiQklmyB0ZqcetDT1OL7Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079035027448-plur6s9lud2e99tggbkn5uf4jmlabb9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5097070292431028~5074159055"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079035027448:android:b3185d2a6ae58b3a",
+        "android_client_info": {
+          "package_name": "com.devstories.nomadnote_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079035027448-1bbtdldlqb1phpiuus9kvqomangb8tmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devstories.nomadnote_android",
+            "certificate_hash": "5e016c42a116cccae4fc0efc6d1737e72e6db501"
+          }
+        },
+        {
+          "client_id": "1079035027448-1p1niei4jlf1mp7iv6ijiu1s653l00v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devstories.nomadnote_android",
+            "certificate_hash": "9bd644585785fef7e7f1dd8060d8ce173ab65941"
+          }
+        },
+        {
+          "client_id": "1079035027448-87v9md309kgu760kbm1rsdemdo2je2i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devstories.nomadnote_android",
+            "certificate_hash": "bcbbd75aba3af976b24801893aae7d2e2326afd5"
+          }
+        },
+        {
+          "client_id": "1079035027448-9npv08aqeb1gcnkd8v69abksps5jshf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devstories.nomadnote_android",
+            "certificate_hash": "ebcb295d71149973573b66cbe6f49d2049206fc9"
+          }
+        },
+        {
+          "client_id": "1079035027448-plur6s9lud2e99tggbkn5uf4jmlabb9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVksFdc6MXuQiQklmyB0ZqcetDT1OL7Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079035027448-plur6s9lud2e99tggbkn5uf4jmlabb9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

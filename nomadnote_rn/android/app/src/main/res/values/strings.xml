@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">nomadnote</string>
+    <string name="kakao_app_key">30c846cc5fc8a6f301a8fc0cc2e9e7f3</string>
+    <string name="facebook_app_id">1469604029836632</string>
+    <string name="line_channel_id" translatable="false">1655788190</string>
+</resources>
